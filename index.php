@@ -52,7 +52,7 @@ include_once("common/vthreeConstants.php")
 								<div class="banner-text">
 									<h2>Parking Habits technology helps car financing companies retrieve vehicles</h2>
 									<!-- <span class="sub-text" style="margin:20px 0px;">Increase more Visitors to your Stand</span> -->
-									<a class="btn-text" href="Contact-us.php"> Contact Us</a>
+									<a class="btn-text" href="contact-us.php"> Contact Us</a>
 								</div>
 							</div>
 						</li>
