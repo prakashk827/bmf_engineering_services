@@ -31,8 +31,8 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-4 logo col-md-12 d-flex align-items-center">
-<p style="font-size:24px;font-weight:bold">BMF Engineering Services</p>
-				
+<!-- <p style="font-size:24px;font-weight:bold">BMFES</p> -->
+				<h1 style="color:white">BMFES</h1>
 							<!-- <a href="http://globalexpodata.com/"> <img  class = "img-responsive" style = "width:50px" src="assets/images/BMFESLogo.jpg" alt="Logo"> </a> -->
 
 							<div class="navbar-header">
