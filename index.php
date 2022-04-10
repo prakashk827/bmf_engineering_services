@@ -121,7 +121,7 @@ include_once("common/vthreeConstants.php")
 										Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industry's standard dummy text ever.
 									</p> -->
 									<!-- <a class="btn-text" href="#"> Read More</a> -->
-									<a class="btn-text" href="Contact-us.php"> Contact Us</a>
+									<a class="btn-text" href="contact-us.php"> Contact Us</a>
 								</div>
 							</div>
 						</li>
