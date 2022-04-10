@@ -31,8 +31,9 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-4 logo col-md-12 d-flex align-items-center">
-
-							<a href="http://globalexpodata.com/"> <img src="assets/images/Glogo.PNG" alt="Logo"> </a>
+<p style="font-size:24px;font-weight:bold">BMF Engineering Services</p>
+				
+							<!-- <a href="http://globalexpodata.com/"> <img  class = "img-responsive" style = "width:50px" src="assets/images/BMFESLogo.jpg" alt="Logo"> </a> -->
 
 							<div class="navbar-header">
 								<button type="button" class="navbar-toggle hidden-lg-up" data-toggle="collapse" data-target="#navbar-menu">
@@ -50,7 +51,7 @@
 											 <!-- <?php echo ADDRESS_LINE_1 ?><br> -->
                                              <?php echo ADDRESS_LINE_2 ?><br>
                                              <?php echo ADDRESS_LINE_3 ?><br>
-                                             <?php echo ADDRESS_LINE_4 ?><br>
+                                             <?php echo ADDRESS_LINE_4 ?>
 											
 										</p>
 									</li>

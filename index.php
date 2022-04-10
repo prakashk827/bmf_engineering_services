@@ -139,7 +139,7 @@ include_once("common/vthreeConstants.php")
 				<div class="row pb-30">
 					<div class="col-md-4 d-flex align-items-center">
 						<div class="section_tit">
-							<img src="assets/images/logo_square.png"/>
+							<img class = "img-responsive"  src="assets/images/BMFESLogo.jpg"/>
 						</div>
 					</div>
 

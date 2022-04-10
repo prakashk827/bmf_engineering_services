@@ -1,7 +1,9 @@
 <div class="container">
 				<div class="row">
 					<div class="col-md-6 col-lg-3 footer_logo">
-						<a href="index-2.html"><img src="assets/images/Glogo.PNG" alt=""></a>
+						<a href="index-2.html">
+						<img class = "img-responsive"  src="assets/images/BMFESLogo.jpg"/>
+						</a>
 						<p> </p>
 					</div>
 
